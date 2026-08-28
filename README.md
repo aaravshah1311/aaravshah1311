@@ -57,8 +57,6 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 ### 🧩 Experience
 
-<img src="0xra.jpeg" alt="0xRA Community Logo" width="270" align="right" />
-
 <strong>🔹 Security Researcher @ BugBase</strong> (2024 – Present)
 <ul>
   <li>Global Rank <strong>#25</strong> with <strong>100% success rate</strong>.</li>
@@ -119,6 +117,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 - 🏅 **PhonePe** – Hall of Fame | **$250 Bounty** for Responsible Disclosure
 - 🚗 **TATA Motors** – Listed in Official Hall of Fame
 - 💬 **Airmeet** – Honored for Security Research
+- 🛡️ **Defronix Security** – Honored by appreciation letter for finding a Vulnerability on their LEA based application
 - 🛡️ **Acko** – Honored for Security Research
 - 🎓 **SVIT Cybersecurity Champions** – Recognized for campus security achievements
 - 🕵️ **Private Invitations** – Invited by PhonePe, HDFC Bank, VI, ClearTax, Locus, Hike & Flipkart
