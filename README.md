@@ -19,7 +19,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 💬 **Ask me about:** Ethical Hacking, Web App Security, Penetration Testing.
 <br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/Jw6yqmlolc77auj4dLrcbp" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb71gQc8vd1NgqdG4S1Q" target="_blank">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join 0xRA Hackers Community"/>
   </a>
   &nbsp;&nbsp;
@@ -128,8 +128,8 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 <table align="center">
   <tr>
-    <td align="center" width="104"><a href="https://fluxionai.world/register?source=github&campaign=github-agent-2&promo=AGENT2"><img src="fluxion-ai.png" alt="Fluxion AI" width="80" height="80" /></a></td>
-    <td><sub><a href="https://fluxionai.world/register?source=github&campaign=github-agent-2&promo=AGENT2"><strong>Fluxion AI</strong></a> provides reliable, cost-efficient access to GPT, Claude, and other leading AI models through one unified API.<br />Save up to 70% compared with official API pricing and get $3 in API credits when you sign up through this link.</sub></td>
+    <td align="center" width="104"><a href="https://fluxionai.world/register?source=github&campaign=github-agent-2&promo=AGENT2" target="_blank"><img src="fluxion-ai.png" alt="Fluxion AI" width="80" height="80" /></a></td>
+    <td><sub><a href="https://fluxionai.world/register?source=github&campaign=github-agent-2&promo=AGENT2" target="_blank"><strong>Fluxion AI</strong></a> provides reliable, cost-efficient access to GPT, Claude, and other leading AI models through one unified API.<br />Save up to 70% compared with official API pricing and get $3 in API credits when you sign up through this link.</sub></td>
   </tr>
 </table>
 
