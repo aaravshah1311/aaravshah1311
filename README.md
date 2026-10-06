@@ -124,6 +124,17 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 ---
 
+<h3 align="center">Sponsors</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="104"><a href="https://fluxionai.world/register?source=github&campaign=github-agent-2&promo=AGENT2"><img src="fluxion-ai.png" alt="Fluxion AI" width="80" height="80" /></a></td>
+    <td><sub><a href="https://fluxionai.world/register?source=github&campaign=github-agent-2&promo=AGENT2"><strong>Fluxion AI</strong></a> provides reliable, cost-efficient access to GPT, Claude, and other leading AI models through one unified API.<br />Save up to 70% compared with official API pricing and get $3 in API credits when you sign up through this link.</sub></td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
