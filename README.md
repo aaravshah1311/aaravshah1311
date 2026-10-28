@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaravshah1311&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ### 🧠 A Cybersecurity Enthusiast & Security Researcher
 
 I’m a **Computer Engineering undergraduate** with a deep passion for **Cybersecurity**, **Ethical Hacking**, and **Web Development**.
