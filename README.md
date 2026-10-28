@@ -40,7 +40,7 @@ My mission is to build **secure digital systems** and solve **real-world securit
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:aaravprogrammers@gmail.com" target="_blank">
+  <a href="mailto:ap.aaravshah1311@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/aaravshah1311" target="_blank">
